@@ -2,6 +2,6 @@
 
 NeurIPS 2023 (poster)
 
-Paper link: https://openreview.net/pdf?id=nFEQNYsjQO
+Paper: https://openreview.net/pdf?id=nFEQNYsjQO
 
 Slides: https://nips.cc/media/neurips-2023/Slides/70516.pdf
